@@ -16,6 +16,6 @@ Example:
 
 ## Otsikko
 
-Blah jne:
+Blah jne :
 
 <https://link>
